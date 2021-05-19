@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.wrapper {
+    background-color: azure;
+    width: 300px;
+    height: 450px;
+    border-radius: 10px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.screen {
+    background-color: darkblue;
+    width: 300px;
+    height: 70px;
+    margin: 0 0 45px 0;
+    border-radius: 5px;
+}
+
+button {
+    background-color: rgb(170, 205, 228);
+    width: 65px;
+    height: 65px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin: 1px;
+}
+
+.btn {
+    display: flex;
+    justify-content: space-between;
+}
+
+.info__btn_AC {
+    width: 222px;
+    background-color: rgb(34, 132, 224);
+}
+
+.info__btn_s {
+    background-color: rgb(34, 132, 224);
+}
+
+.info__btn_z {
+    background-color: rgb(34, 132, 224);
+}
+
+.info__btn_m {
+    background-color: rgb(34, 132, 224);
+}
+
+.info__btn_p {
+    background-color: rgb(34, 132, 224);
+}
+
+.info__btn_r {
+    width: 144px;
+    background-color: darkblue;
+}
